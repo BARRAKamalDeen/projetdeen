@@ -1,0 +1,28 @@
+body{
+    background-color: peru;
+}
+
+table{
+    border: 1px solid silver;
+    border-collapse: collapse;
+}
+
+tbody{
+    border: 1px solid silver;
+    border-collapse: collapse;
+}
+
+th{
+    border: 1px solid silver;
+    border-collapse: collapse;
+}
+
+tr{
+    border: 1px solid silver;
+    border-collapse: collapse;
+}
+
+td{
+    border: 1px solid silver;
+    border-collapse: collapse;
+}

@@ -1,0 +1,10 @@
+body{
+    background-color :silver;
+    color :black
+}
+
+style{
+    border-style: inset
+    border-width= 3px
+    border-color= black
+}

@@ -1,0 +1,23 @@
+body{
+    background-color: olivedrab;
+}
+
+table{
+    border: 3px solid wheat;
+    border-collapse: collapse;
+}
+
+th{
+    border: 3px solid wheat;
+    border-collapse:separate;
+}
+
+tr{
+    border: 3px solid wheat;
+    border-collapse: collapse;
+}
+
+td{
+    border: 3px solid wheat;
+    border-collapse:separate;
+}
